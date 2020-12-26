@@ -14,5 +14,3 @@ def insertion_sort(A):
 print('before: ', rand_items)
 insertion_sort(rand_items)
 print('After: ', rand_items)
-print("hello world")
-# test test test test
