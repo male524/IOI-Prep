@@ -1,6 +1,6 @@
 import random
 
-rand_items = [random.randint(-100, 100) for i in range(20)]
+rand_items = [random.randint(-100, 100) for i in range(100)]
 
 
 def insertion_sort(A):

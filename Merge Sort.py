@@ -1,6 +1,6 @@
 import random
 
-rand_items = [random.randint(1, 100) for i in range(20)]
+rand_items = [random.randint(1, 100) for i in range(100000)]
 
 
 def merge_sort(A):
